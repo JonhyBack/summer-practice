@@ -1,0 +1,9 @@
+D:\Projecs\SummerPractice\Numerical Methods\bin\Debug\Numerical Methods.dll
+D:\Projecs\SummerPractice\Numerical Methods\bin\Debug\Numerical Methods.pdb
+D:\Projecs\SummerPractice\Numerical Methods\bin\Debug\MathNet.Numerics.dll
+D:\Projecs\SummerPractice\Numerical Methods\bin\Debug\MathNet.Numerics.xml
+D:\Projecs\SummerPractice\Numerical Methods\obj\Debug\NumericalMethods.csproj.AssemblyReference.cache
+D:\Projecs\SummerPractice\Numerical Methods\obj\Debug\NumericalMethods.csproj.CoreCompileInputs.cache
+D:\Projecs\SummerPractice\Numerical Methods\obj\Debug\NumericalMethods.csproj.CopyComplete
+D:\Projecs\SummerPractice\Numerical Methods\obj\Debug\Numerical Methods.dll
+D:\Projecs\SummerPractice\Numerical Methods\obj\Debug\Numerical Methods.pdb

@@ -1,0 +1,18 @@
+D:\Projecs\SummerPractice\SummerPractice\bin\Debug\SummerPractice.exe.config
+D:\Projecs\SummerPractice\SummerPractice\bin\Debug\SummerPractice.exe
+D:\Projecs\SummerPractice\SummerPractice\bin\Debug\SummerPractice.pdb
+D:\Projecs\SummerPractice\SummerPractice\obj\Debug\SummerPractice.Properties.Resources.resources
+D:\Projecs\SummerPractice\SummerPractice\obj\Debug\SummerPractice.csproj.GenerateResource.cache
+D:\Projecs\SummerPractice\SummerPractice\obj\Debug\SummerPractice.csproj.CoreCompileInputs.cache
+D:\Projecs\SummerPractice\SummerPractice\obj\Debug\SummerPractice.exe
+D:\Projecs\SummerPractice\SummerPractice\obj\Debug\SummerPractice.pdb
+D:\Projecs\SummerPractice\SummerPractice\obj\Debug\SummerPractice.MainForm.resources
+D:\Projecs\SummerPractice\SummerPractice\obj\Debug\SummerPractice.csproj.AssemblyReference.cache
+D:\Projecs\SummerPractice\SummerPractice\obj\Debug\SummerPractice.MethodRungeKuttaForm.resources
+D:\Projecs\SummerPractice\SummerPractice\obj\Debug\SummerPractice.MethodSLAEIterationsForm.resources
+D:\Projecs\SummerPractice\SummerPractice\obj\Debug\SummerPractice.MethodSplineInterPolinomForm.resources
+D:\Projecs\SummerPractice\SummerPractice\bin\Debug\FontAwesome.Sharp.dll
+D:\Projecs\SummerPractice\SummerPractice\obj\Debug\SummerPractice.csproj.CopyComplete
+D:\Projecs\SummerPractice\SummerPractice\bin\Debug\Numerical Methods.dll
+D:\Projecs\SummerPractice\SummerPractice\bin\Debug\Numerical Methods.pdb
+D:\Projecs\SummerPractice\SummerPractice\obj\Debug\SummerPractice.MethodMiddleRectanglesForm.resources

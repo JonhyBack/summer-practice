@@ -15,6 +15,8 @@ namespace SummerPractice
 
         private void button1_Click(object sender, EventArgs e)
         {
+            formsPlot1.Plot.Clear();
+
             var spline = new MethodSplineInterPolinom();
             var ArrayY = spline.Calculate();
 

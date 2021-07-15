@@ -13,6 +13,8 @@ namespace SummerPractice
 
         private void button1_Click(object sender, EventArgs e)
         {
+            dataGridView1.Rows.Clear();
+
             MethodSLAEIterations methodSLAE = new MethodSLAEIterations();
             var points = methodSLAE.Calculate();
 

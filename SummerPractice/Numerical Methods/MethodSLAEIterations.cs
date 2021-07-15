@@ -1,58 +1,65 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace NumericalMethods
 {
+    public struct PointSLAE
+    {
+        public PointSLAE(double X1, double X2, double X3, double X4)
+        {
+            this.X1 = X1;
+            this.X2 = X2;
+            this.X3 = X3;
+            this.X4 = X4;
+        }
+
+        public double X1;
+        public double X2;
+        public double X3;
+        public double X4;
+    }
+
     public class MethodSLAEIterations
     {
-        private double _epsilon;
-        public double X1 { get; set; } = 1.42;
-        public double X2 { get; set; } = -0.57;
-        public double X3 { get; set; } = 0.68;
-        public double X4 { get; set; } = -2.14;
-
+        private double _epsilon = 0.001;
+        private PointSLAE Point;
 
         public MethodSLAEIterations()
         {
-            _epsilon = 0.001;
+            Point = new PointSLAE(1.42, 0.57, 0.68, 2.14);
         }
 
-        public MethodSLAEIterations(double epsilon)
+        public MethodSLAEIterations(double epsilon) : this()
         {
             _epsilon = epsilon;
         }
 
-        public void InFunction()
+        public List<PointSLAE> Calculate()
         {
-            double x1 = 0.24 * X1 + 0.21 * X2 + 0.06 * X3 - 0.34 * X4 + 1.42;
-            double x2 = 0.05 * X1 + 0.32 * X3 + 0.12 * X4 - 0.57;
-            double x3 = 0.35 * X1 - 0.27 * X2 - 0.05 * X4 + 0.68;
-            double x4 = 0.12 * X1 - 0.43 * X2 + 0.34 * X3 - 0.21 * X4 - 2.14;
+            var result = new List<PointSLAE>();
 
-            if (
-                (Math.Abs(x1 -X1) > _epsilon)
-                || (Math.Abs(x2 - X2) > _epsilon)
-                || (Math.Abs(x3 - X3) > _epsilon)
-                || (Math.Abs(x4 - X4) > _epsilon)
+            double x1 = 0.24 * Point.X1 + 0.21 * Point.X2 + 0.06 * Point.X3 - 0.34 * Point.X4 + 1.42;
+            double x2 = 0.05 * Point.X1 + 0.32 * Point.X2 + 0.12 * Point.X4 - 0.57;
+            double x3 = 0.35 * Point.X1 - 0.27 * Point.X2 - 0.05 * Point.X4 + 0.68;
+            double x4 = 0.12 * Point.X1 - 0.43 * Point.X2 + 0.34 * Point.X3 - 0.21 * Point.X4 - 2.14;
+
+            while (
+                (Math.Abs(x1 - Point.X1) > _epsilon)
+                || (Math.Abs(x2 - Point.X2) > _epsilon)
+                || (Math.Abs(x3 - Point.X3) > _epsilon)
+                || (Math.Abs(x4 - Point.X4) > _epsilon)
                 )
             {
-                X1 = x1;
-                X2 = x2;
-                X3 = x3;
-                X4 = x4;
+                result.Add(Point);
+                Point = new PointSLAE(x1, x2, x3, x4);
 
-                InFunction();
-            } 
-            else
-            {
-                X1 = x1;
-                X2 = x2;
-                X3 = x3;
-                X4 = x4;
+                x1 = 0.24 * Point.X1 + 0.21 * Point.X2 + 0.06 * Point.X3 - 0.34 * Point.X4 + 1.42;
+                x2 = 0.05 * Point.X1 + 0.32 * Point.X2 + 0.12 * Point.X4 - 0.57;
+                x3 = 0.35 * Point.X1 - 0.27 * Point.X2 - 0.05 * Point.X4 + 0.68;
+                x4 = 0.12 * Point.X1 - 0.43 * Point.X2 + 0.34 * Point.X3 - 0.21 * Point.X4 - 2.14;
             }
-        }   
+
+            return result;
+        }
     }
 }

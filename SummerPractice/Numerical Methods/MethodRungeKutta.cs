@@ -48,6 +48,5 @@ namespace NumericalMethods
         {
             return x + Math.Pow(y, 2);
         }
-
     }
 }

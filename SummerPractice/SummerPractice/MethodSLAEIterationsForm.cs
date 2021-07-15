@@ -1,11 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows.Forms;
 using NumericalMethods;
 
@@ -21,12 +14,12 @@ namespace SummerPractice
         private void button1_Click(object sender, EventArgs e)
         {
             MethodSLAEIterations methodSLAE = new MethodSLAEIterations();
-            methodSLAE.InFunction();
+            var points = methodSLAE.Calculate();
 
-            label1.Text = "x1: " + methodSLAE.X1;
-            label2.Text = "x2: " + methodSLAE.X2;
-            label3.Text = "x3: " + methodSLAE.X3;
-            label4.Text = "x4: " + methodSLAE.X4;
+            for (int i = 0; i < points.Count; i++)
+            {
+                dataGridView1.Rows.Add(i, points[i].X1, points[i].X2, points[i].X3, points[i].X4);
+            }
         }
     }
 }

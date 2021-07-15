@@ -44,11 +44,11 @@ namespace SummerPractice
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(631, 279);
+            this.button1.Location = new System.Drawing.Point(496, 312);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(141, 70);
+            this.button1.Size = new System.Drawing.Size(101, 37);
             this.button1.TabIndex = 0;
-            this.button1.Text = "4";
+            this.button1.Text = "Calculate";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
@@ -69,7 +69,7 @@ namespace SummerPractice
             this.dataGridView1.Location = new System.Drawing.Point(12, 12);
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.ReadOnly = true;
-            this.dataGridView1.Size = new System.Drawing.Size(613, 337);
+            this.dataGridView1.Size = new System.Drawing.Size(478, 337);
             this.dataGridView1.TabIndex = 1;
             // 
             // column_I
@@ -124,9 +124,10 @@ namespace SummerPractice
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(784, 361);
+            this.ClientSize = new System.Drawing.Size(609, 361);
             this.Controls.Add(this.dataGridView1);
             this.Controls.Add(this.button1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "MethodRungeKuttaForm";
             this.Text = "MethodRungeKuttaForm";
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();

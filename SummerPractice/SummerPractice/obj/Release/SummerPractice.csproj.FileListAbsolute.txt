@@ -1,0 +1,24 @@
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\bin\Release\SummerPractice.exe.config
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\bin\Release\SummerPractice.exe
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\bin\Release\SummerPractice.pdb
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\bin\Release\FontAwesome.Sharp.dll
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\bin\Release\Numerical Methods.dll
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\bin\Release\ScottPlot.dll
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\bin\Release\ScottPlot.WinForms.dll
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\bin\Release\System.Drawing.Common.dll
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\bin\Release\System.ValueTuple.dll
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\bin\Release\Numerical Methods.pdb
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\bin\Release\ScottPlot.xml
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\bin\Release\System.ValueTuple.xml
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\obj\Release\SummerPractice.csproj.AssemblyReference.cache
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\obj\Release\SummerPractice.MainForm.resources
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\obj\Release\SummerPractice.MethodMiddleRectanglesForm.resources
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\obj\Release\SummerPractice.MethodRungeKuttaForm.resources
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\obj\Release\SummerPractice.MethodSLAEIterationsForm.resources
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\obj\Release\SummerPractice.MethodSplineInterPolinomForm.resources
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\obj\Release\SummerPractice.Properties.Resources.resources
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\obj\Release\SummerPractice.csproj.GenerateResource.cache
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\obj\Release\SummerPractice.csproj.CoreCompileInputs.cache
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\obj\Release\SummerPractice.csproj.CopyComplete
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\obj\Release\SummerPractice.exe
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\obj\Release\SummerPractice.pdb

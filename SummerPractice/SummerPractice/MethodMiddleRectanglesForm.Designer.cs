@@ -35,30 +35,31 @@ namespace SummerPractice
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(243, 129);
+            this.button1.Location = new System.Drawing.Point(435, 310);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(245, 119);
+            this.button1.Size = new System.Drawing.Size(162, 39);
             this.button1.TabIndex = 0;
-            this.button1.Text = "3";
+            this.button1.Text = "Calculate";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(311, 38);
+            this.label1.Location = new System.Drawing.Point(262, 138);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(35, 13);
+            this.label1.Size = new System.Drawing.Size(37, 13);
             this.label1.TabIndex = 1;
-            this.label1.Text = "label1";
+            this.label1.Text = "Result";
             // 
             // MethodMiddleRectanglesForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(784, 361);
+            this.ClientSize = new System.Drawing.Size(609, 361);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.button1);
+            this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Name = "MethodMiddleRectanglesForm";
             this.Text = "MethodMiddleTrianglesForm";
             this.ResumeLayout(false);

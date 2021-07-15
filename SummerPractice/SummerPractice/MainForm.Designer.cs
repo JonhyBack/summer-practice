@@ -56,7 +56,7 @@ namespace SummerPractice
             this.panelMenu.Dock = System.Windows.Forms.DockStyle.Left;
             this.panelMenu.Location = new System.Drawing.Point(0, 0);
             this.panelMenu.Name = "panelMenu";
-            this.panelMenu.Size = new System.Drawing.Size(175, 362);
+            this.panelMenu.Size = new System.Drawing.Size(175, 361);
             this.panelMenu.TabIndex = 0;
             // 
             // MethodRungeKutta_button
@@ -163,28 +163,29 @@ namespace SummerPractice
             this.panelChildForm.Dock = System.Windows.Forms.DockStyle.Fill;
             this.panelChildForm.Location = new System.Drawing.Point(175, 0);
             this.panelChildForm.Name = "panelChildForm";
-            this.panelChildForm.Size = new System.Drawing.Size(609, 362);
+            this.panelChildForm.Size = new System.Drawing.Size(609, 361);
             this.panelChildForm.TabIndex = 1;
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(177, 49);
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 20.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.label1.Location = new System.Drawing.Point(91, 69);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(104, 13);
+            this.label1.Size = new System.Drawing.Size(407, 31);
             this.label1.TabIndex = 0;
-            this.label1.Text = "Нажмите на любой";
+            this.label1.Text = "Click any button on the left panel";
             // 
             // MainForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(784, 362);
+            this.ClientSize = new System.Drawing.Size(784, 361);
             this.Controls.Add(this.panelChildForm);
             this.Controls.Add(this.panelMenu);
             this.DoubleBuffered = true;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
-            this.MinimumSize = new System.Drawing.Size(800, 360);
+            this.MinimumSize = new System.Drawing.Size(800, 400);
             this.Name = "MainForm";
             this.Text = "Summer Practice";
             this.panelMenu.ResumeLayout(false);

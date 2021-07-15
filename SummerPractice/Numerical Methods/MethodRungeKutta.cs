@@ -19,7 +19,7 @@ namespace NumericalMethods
         private (double Begin, double End) limit = (1.8, 2.8);
         private double h = 0.02;
 
-        public List<CalculationsRungeKutta> Calc()
+        public List<CalculationsRungeKutta> Calculate()
         {
             var result = new List<CalculationsRungeKutta>();
             var currIter = new CalculationsRungeKutta();

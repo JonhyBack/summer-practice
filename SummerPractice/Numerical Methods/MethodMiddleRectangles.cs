@@ -26,7 +26,7 @@ namespace NumericalMethods
         public double CalcIntegral(int n)
         {
             double result = 0;
-            double h = (_b - _a) / n; ; // n = 100;
+            double h = (_b - _a) / n;
 
             for (int i = 0; i < n; i++)
             {
@@ -36,6 +36,7 @@ namespace NumericalMethods
             result *= h;
             return result;
         }
+
         private double InFunction(double x)
         { 
             return (Math.Pow(x, 2) + 1) * Math.Sin(x - 0.5);

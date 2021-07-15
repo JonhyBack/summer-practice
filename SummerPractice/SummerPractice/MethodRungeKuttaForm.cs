@@ -21,7 +21,7 @@ namespace SummerPractice
         private void button1_Click(object sender, EventArgs e)
         {
             var methodRK = new MethodRungeKutta();
-            var result = methodRK.Calc();
+            var result = methodRK.Calculate();
 
             for (int i = 0; i < result.Count; i++)
             {

@@ -7,3 +7,18 @@ D:\Projecs\SummerPractice\Numerical Methods\obj\Debug\NumericalMethods.csproj.Co
 D:\Projecs\SummerPractice\Numerical Methods\obj\Debug\NumericalMethods.csproj.CopyComplete
 D:\Projecs\SummerPractice\Numerical Methods\obj\Debug\Numerical Methods.dll
 D:\Projecs\SummerPractice\Numerical Methods\obj\Debug\Numerical Methods.pdb
+D:\Projecs\Repos\summer-practice\SummerPractice\Numerical Methods\bin\Debug\Numerical Methods.dll
+D:\Projecs\Repos\summer-practice\SummerPractice\Numerical Methods\bin\Debug\Numerical Methods.pdb
+D:\Projecs\Repos\summer-practice\SummerPractice\Numerical Methods\bin\Debug\MathNet.Numerics.dll
+D:\Projecs\Repos\summer-practice\SummerPractice\Numerical Methods\bin\Debug\ScottPlot.dll
+D:\Projecs\Repos\summer-practice\SummerPractice\Numerical Methods\bin\Debug\ScottPlot.WinForms.dll
+D:\Projecs\Repos\summer-practice\SummerPractice\Numerical Methods\bin\Debug\System.Drawing.Common.dll
+D:\Projecs\Repos\summer-practice\SummerPractice\Numerical Methods\bin\Debug\System.ValueTuple.dll
+D:\Projecs\Repos\summer-practice\SummerPractice\Numerical Methods\bin\Debug\MathNet.Numerics.xml
+D:\Projecs\Repos\summer-practice\SummerPractice\Numerical Methods\bin\Debug\ScottPlot.xml
+D:\Projecs\Repos\summer-practice\SummerPractice\Numerical Methods\bin\Debug\System.ValueTuple.xml
+D:\Projecs\Repos\summer-practice\SummerPractice\Numerical Methods\obj\Debug\NumericalMethods.csproj.AssemblyReference.cache
+D:\Projecs\Repos\summer-practice\SummerPractice\Numerical Methods\obj\Debug\NumericalMethods.csproj.CoreCompileInputs.cache
+D:\Projecs\Repos\summer-practice\SummerPractice\Numerical Methods\obj\Debug\NumericalMethods.csproj.CopyComplete
+D:\Projecs\Repos\summer-practice\SummerPractice\Numerical Methods\obj\Debug\Numerical Methods.dll
+D:\Projecs\Repos\summer-practice\SummerPractice\Numerical Methods\obj\Debug\Numerical Methods.pdb

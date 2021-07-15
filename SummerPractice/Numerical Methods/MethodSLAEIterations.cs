@@ -25,7 +25,7 @@ namespace NumericalMethods
             _epsilon = epsilon;
         }
 
-        public void f()
+        public void InFunction()
         {
             double x1 = 0.24 * X1 + 0.21 * X2 + 0.06 * X3 - 0.34 * X4 + 1.42;
             double x2 = 0.05 * X1 + 0.32 * X3 + 0.12 * X4 - 0.57;
@@ -44,7 +44,7 @@ namespace NumericalMethods
                 X3 = x3;
                 X4 = x4;
 
-                f();
+                InFunction();
             } 
             else
             {

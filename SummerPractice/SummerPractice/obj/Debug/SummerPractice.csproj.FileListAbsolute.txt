@@ -16,3 +16,27 @@ D:\Projecs\SummerPractice\SummerPractice\obj\Debug\SummerPractice.csproj.CopyCom
 D:\Projecs\SummerPractice\SummerPractice\bin\Debug\Numerical Methods.dll
 D:\Projecs\SummerPractice\SummerPractice\bin\Debug\Numerical Methods.pdb
 D:\Projecs\SummerPractice\SummerPractice\obj\Debug\SummerPractice.MethodMiddleRectanglesForm.resources
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\bin\Debug\SummerPractice.exe.config
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\bin\Debug\SummerPractice.exe
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\bin\Debug\SummerPractice.pdb
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\bin\Debug\FontAwesome.Sharp.dll
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\bin\Debug\Numerical Methods.dll
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\bin\Debug\ScottPlot.dll
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\bin\Debug\ScottPlot.WinForms.dll
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\bin\Debug\System.Drawing.Common.dll
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\bin\Debug\System.ValueTuple.dll
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\bin\Debug\Numerical Methods.pdb
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\bin\Debug\ScottPlot.xml
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\bin\Debug\System.ValueTuple.xml
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\obj\Debug\SummerPractice.csproj.AssemblyReference.cache
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\obj\Debug\SummerPractice.MainForm.resources
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\obj\Debug\SummerPractice.MethodMiddleRectanglesForm.resources
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\obj\Debug\SummerPractice.MethodRungeKuttaForm.resources
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\obj\Debug\SummerPractice.MethodSLAEIterationsForm.resources
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\obj\Debug\SummerPractice.MethodSplineInterPolinomForm.resources
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\obj\Debug\SummerPractice.Properties.Resources.resources
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\obj\Debug\SummerPractice.csproj.GenerateResource.cache
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\obj\Debug\SummerPractice.csproj.CoreCompileInputs.cache
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\obj\Debug\SummerPractice.csproj.CopyComplete
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\obj\Debug\SummerPractice.exe
+D:\Projecs\Repos\summer-practice\SummerPractice\SummerPractice\obj\Debug\SummerPractice.pdb

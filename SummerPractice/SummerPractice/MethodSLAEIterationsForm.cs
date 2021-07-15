@@ -21,7 +21,7 @@ namespace SummerPractice
         private void button1_Click(object sender, EventArgs e)
         {
             MethodSLAEIterations methodSLAE = new MethodSLAEIterations();
-            methodSLAE.f();
+            methodSLAE.InFunction();
 
             label1.Text = "x1: " + methodSLAE.X1;
             label2.Text = "x2: " + methodSLAE.X2;
